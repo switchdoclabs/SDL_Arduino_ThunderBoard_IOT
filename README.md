@@ -4,6 +4,7 @@ November 2017
 All documentation for this board is on the SwitchDoc Labs site.<BR>
 
 Version 004ARD - Initial Release - December 1, 2017 <BR>
+Version 004ARD - Added JSON for Freeboard dashboard Release - December 2, 2017 <BR>
 
 Installation<BR>
 
